@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:101c2c,100:0d1b2a&height=120&section=header&text=Vatsal%20Sharma&fontSize=40&fontColor=64ffda&fontAlignY=55" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=35&background=00000000&lines=Python+%7C+AI%2FML+%7C+ASP.NET+%7C+Full-Stack+Engineer;Building+full-stack+dashboards;Applying+machine+learning;Open+to+internships" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vatsal%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20ASP.NET%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/vatsal-sharma-166267297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sharmavatsal144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -82,8 +80,6 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 </div>
 
-> ⚠️ The snake animation above needs a one-time GitHub Action setup — see the note below.
-
 ---
 
 ## 📫 Let's Connect
@@ -99,6 +95,8 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:101c2c,100:0a0e17&height=110&section=footer&text=Thanks%20for%20visiting&fontSize=15&fontColor=7f8ea3&fontAlignY=70" width="100%"/>
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
