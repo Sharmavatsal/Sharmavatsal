@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:101c2c,100:0d1b2a&height=190&section=header&text=Vatsal%20Sharma&fontSize=44&fontColor=64ffda&fontAlignY=40&desc=Python%20%7C%20AI%2FML%20%7C%20ASP.NET%20%7C%20Full-Stack%20Engineer&descAlignY=62&descSize=16&descColor=e6f1ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:101c2c,100:0d1b2a&height=120&section=header&text=Vatsal%20Sharma&fontSize=40&fontColor=64ffda&fontAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=40&background=00000000&lines=Building+full-stack+dashboards;Applying+machine+learning;Open+to+internships" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&height=35&background=00000000&lines=Python+%7C+AI%2FML+%7C+ASP.NET+%7C+Full-Stack+Engineer;Building+full-stack+dashboards;Applying+machine+learning;Open+to+internships" />
 
 <a href="https://www.linkedin.com/in/vatsal-sharma-166267297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sharmavatsal144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
