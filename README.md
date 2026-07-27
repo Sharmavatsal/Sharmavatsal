@@ -61,14 +61,18 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharmavatsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavatsal&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+### Profile Statistics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmavatsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sharmavatsal)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharmavatsal&theme=tokyonight&hide_border=true" width="60%"/>
+### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavatsal&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sharmavatsal)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sharmavatsal&theme=darkhub&no-frame=true&row=1&margin-w=15" width="80%"/>
+### Contribution Streak
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sharmavatsal&theme=tokyonight&hide_border=true)](https://github.com/Sharmavatsal)
 
 </div>
+
+> *Note: Stats cards may take a moment to load. If images don't appear, refresh the page.*
 
 ---
 
