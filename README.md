@@ -6,6 +6,10 @@
 <a href="mailto:sharmavatsal144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Sharmavatsal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Final-Year+B.Tech+%7C+Agricultural+Information+Technology;Full-Stack+Developer+%7C+React+%2B+ASP.NET+%2B+FastAPI;AI%2FML+Engineer+%7C+Scikit-learn+%2B+NLP+%2B+Clustering;Open+to+Full-Stack%2C+AI%2FML+%26+BDE+Roles)](https://git.io/typing-svg)
+
 </div>
 
 <br>
@@ -37,13 +41,33 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 ## 🧰 Technical Arsenal
 
-| Category | Tools & Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB) ![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=239120) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **Frameworks** | ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat-square&logo=dotnet&logoColor=512BD4) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20) ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688) |
-| **Data & ML** | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=150458) ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243) ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8) ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=mathworks&logoColor=0076A8) |
-| **Databases & Platforms** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1) ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E) ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED) |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt="ASP.NET" title="ASP.NET"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" title="Flask"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django" title="Django"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" title="FastAPI"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikit-learn" title="scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" title="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" title="OpenCV"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB" title="MATLAB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" title="Supabase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" title="Firebase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
+
+</div>
 
 ---
 
@@ -57,18 +81,22 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Vital Statistics
 
 <div align="center">
 
 ### Profile Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmavatsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sharmavatsal)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmavatsal&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800)](https://github.com/Sharmavatsal)
 
 ### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavatsal&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sharmavatsal)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavatsal&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800)](https://github.com/Sharmavatsal)
 
 ### Contribution Streak
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sharmavatsal&theme=tokyonight&hide_border=true)](https://github.com/Sharmavatsal)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sharmavatsal&label=PROFILE+VIEWS&color=36BCF7&style=flat-square)
 
 </div>
 
@@ -83,6 +111,17 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 <img src="https://raw.githubusercontent.com/Sharmavatsal/Sharmavatsal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
+---
+
+## 🤝 Open to Collaborate
+
+I'm open to working on:
+
+- Full-stack web applications (React / ASP.NET / FastAPI)
+- Applied ML projects — classification, clustering, recommendation systems
+- Campus hackathons and build-in-public projects
+- Internship / fresher opportunities in Full-Stack, AI/ML, or Business Analysis
 
 ---
 
