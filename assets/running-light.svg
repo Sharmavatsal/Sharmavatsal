@@ -1,1 +1,24 @@
+<svg width="100%" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="trackGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="lightGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7AA2F7" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#7AA2F7" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#BB9AF7" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#7DCFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7DCFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 
+  <!-- base track -->
+  <rect x="0" y="0" width="1200" height="6" rx="3" fill="url(#trackGrad)"/>
+
+  <!-- sweeping light -->
+  <rect x="-400" y="0" width="400" height="6" rx="3" fill="url(#lightGrad)">
+    <animate attributeName="x" values="-400;1200" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
