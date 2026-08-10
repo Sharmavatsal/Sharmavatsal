@@ -24,14 +24,14 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🏆 Leadership & Achievements
 
 - 🥈 **Team Lead — VIBECODETHON Hackathon** (certified by Google Gemini) — led the team to **2nd place**
 - 📚 Completed the **LaunchEd Global Data Science course**, delivering a full ML capstone project
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 💼 Featured Projects
 
@@ -43,7 +43,7 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 | **Petrol Pump Management System** | Role-based fuel station system covering inventory, billing, purchases, expenses, and cash reconciliation | `ASP.NET` `SQL` |
 | **MelodyMind** | Mood-based music recommender + real-time guitar tuner with a LAN-synced Jam Session feature | `Python` `Flask` `PyWebView/PyInstaller` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🧰 Technical Arsenal
 
@@ -75,7 +75,7 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🧠 Current Focus
 
@@ -85,7 +85,7 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 | Applied Machine Learning (Classification, Clustering, NLP) | ![Building](https://img.shields.io/badge/Status-Building-yellow?style=flat-square) |
 | Internship Search — Business Analyst / Web Dev / AI-ML | ![Open](https://img.shields.io/badge/Status-Open-blue?style=flat-square) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 📊 Vital Statistics
 
@@ -108,7 +108,7 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 > *Note: Stats cards may take a moment to load. If images don't appear, refresh the page.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🐍 Contribution Graph
 
@@ -118,7 +118,7 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🤝 Open to Collaborate
 
@@ -129,7 +129,7 @@ I'm open to working on:
 - Campus hackathons and build-in-public projects
 - Internship / fresher opportunities in Full-Stack, AI/ML, or Business Analysis
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 📫 Let's Connect
 
@@ -140,7 +140,7 @@ I'm open to working on:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 <div align="center">
 
