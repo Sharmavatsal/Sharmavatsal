@@ -62,10 +62,10 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 <div align="center">
 
 ### Profile Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmavatsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sharmavatsal)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmavatsal&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800)](https://github.com/Sharmavatsal)
 
 ### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavatsal&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sharmavatsal)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavatsal&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800)](https://github.com/Sharmavatsal)
 
 ### Contribution Streak
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sharmavatsal&theme=tokyonight&hide_border=true)](https://github.com/Sharmavatsal)
