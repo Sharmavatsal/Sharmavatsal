@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vatsal%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20ASP.NET%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Vatsal%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%7C%20AI%2FML%20%7C%20ASP.NET%20%7C%20Full-Stack%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/vatsal-sharma-166267297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sharmavatsal144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -101,6 +101,6 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 *"The best way to predict the future is to build it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
