@@ -87,26 +87,34 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
-## 📊 Vital Statistics
+## 📊 Tech Stack Expertise Breakdown
 
 <div align="center">
 
-### Profile Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmavatsal&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800)](https://github.com/Sharmavatsal)
+### Domain Mastery Matrix
 
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavatsal&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800)](https://github.com/Sharmavatsal)
+| Domain | Proficiency | Core Skills |
+|--------|-------------|------------|
+| **Full-Stack Web** | ████████░ 85% | React, ASP.NET, FastAPI, PostgreSQL, Supabase |
+| **AI/ML Engineering** | ████████░ 80% | Scikit-learn, NLP, Clustering, Computer Vision, PyTorch |
+| **Backend Services** | ████████░ 80% | Python, C#, Flask, Django, ADO.NET, SQL Server |
+| **Data & Analytics** | ███████░░ 75% | Pandas, NumPy, Data Pipelines, Entity Matching, UMAP |
+| **DevOps & Tools** | ██████░░░ 60% | Git, Docker, GitHub, CI/CD, Firebase |
 
-### Contribution Streak
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sharmavatsal&theme=tokyonight&hide_border=true)](https://github.com/Sharmavatsal)
+<br>
+
+### By the Numbers
+- **18+** Projects shipped across Full-Stack, ML, and Business Intelligence
+- **6** Primary languages: Python, C#, JavaScript, SQL, R, MATLAB
+- **2nd Place** VIBECODETHON (Google Gemini certified)
+- **35,000+** Product records processed in ML capstone
+- **20,000+** Vehicle agents simulated in traffic AI model
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sharmavatsal&label=PROFILE+VIEWS&color=36BCF7&style=flat-square)
 
 </div>
-
-> *Note: Stats cards may take a moment to load. If images don't appear, refresh the page.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
