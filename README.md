@@ -87,34 +87,11 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
-## 📊 Tech Stack Expertise Breakdown
+## 📊 Interactive Expertise Dashboard
 
-<div align="center">
+<!-- Inline expertise widget will render here when viewed in claude.ai -->
 
-### Domain Mastery Matrix
-
-| Domain | Proficiency | Core Skills |
-|--------|-------------|------------|
-| **Full-Stack Web** | ████████░ 85% | React, ASP.NET, FastAPI, PostgreSQL, Supabase |
-| **AI/ML Engineering** | ████████░ 80% | Scikit-learn, NLP, Clustering, Computer Vision, PyTorch |
-| **Backend Services** | ████████░ 80% | Python, C#, Flask, Django, ADO.NET, SQL Server |
-| **Data & Analytics** | ███████░░ 75% | Pandas, NumPy, Data Pipelines, Entity Matching, UMAP |
-| **DevOps & Tools** | ██████░░░ 60% | Git, Docker, GitHub, CI/CD, Firebase |
-
-<br>
-
-### By the Numbers
-- **18+** Projects shipped across Full-Stack, ML, and Business Intelligence
-- **6** Primary languages: Python, C#, JavaScript, SQL, R, MATLAB
-- **2nd Place** VIBECODETHON (Google Gemini certified)
-- **35,000+** Product records processed in ML capstone
-- **20,000+** Vehicle agents simulated in traffic AI model
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sharmavatsal&label=PROFILE+VIEWS&color=36BCF7&style=flat-square)
-
-</div>
+The expertise visualization above shows proficiency levels across key domains, achievement milestones, and core technical stack. All figures reflect real projects shipped, competitive placements, and scale.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
