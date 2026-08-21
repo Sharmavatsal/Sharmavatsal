@@ -95,7 +95,6 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 | Metric | Count |
 |--------|:-----:|
-| 📦 Projects Shipped | **18+** |
 | 🔤 Languages | **6** |
 | 🥈 VIBECODETHON | **2nd** |
 | 📊 Product Records | **35K+** |
