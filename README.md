@@ -6,9 +6,13 @@
 <a href="mailto:sharmavatsal144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Sharmavatsal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Final-Year+B.Tech+%7C+Agricultural+Information+Technology;Full-Stack+Developer+%7C+React+%2B+ASP.NET+%2B+FastAPI;AI%2FML+Engineer+%7C+Scikit-learn+%2B+NLP+%2B+Clustering;Open+to+Full-Stack%2C+AI%2FML+Roles)](https://git.io/typing-svg)
+
 </div>
 
-<br>
+---
 
 ## 🚀 About Me
 
@@ -16,7 +20,7 @@ Final-year **B.Tech in Agricultural Information Technology** student building en
 
 ---
 
-## 🏆 Key Highlights
+## 🏆 Key Achievements
 
 - 🥈 **2nd Place** - VIBECODETHON (Google Gemini Certified)
 - 📚 Completed **LaunchEd Global Data Science** capstone
@@ -27,71 +31,54 @@ Final-year **B.Tech in Agricultural Information Technology** student building en
 
 ## 💼 Featured Projects
 
-| Project | Tech Stack | Highlights |
-|---------|-----------|-----------|
-| **Integrated Business Ops Dashboard** | React, Python, Supabase | Multi-vertical platform with role-based access control |
-| **Product Intelligence Dashboard** | FastAPI, Scikit-learn, UMAP | ML pipeline processing 35K+ product records |
-| **AI Study Assistant** | ASP.NET, C#, SQL Server | PDF summarization, MCQ generation, voice assistant |
-| **MelodyMind** | Flask, PyWebView | Mood-based music recommender + guitar tuner |
-| **Petrol Pump System** | ASP.NET, SQL | Role-based inventory & billing management |
+| Project | Stack | Highlights |
+|---------|-------|-----------|
+| **Integrated Business Ops Dashboard** | React, Python, Supabase | Multi-vertical with role-based access |
+| **Product Intelligence Dashboard** | FastAPI, Scikit-learn, UMAP | ML pipeline: 35K+ product records |
+| **AI Study Assistant** | ASP.NET, C#, SQL Server | PDF summary, MCQ gen, voice assistant |
+| **MelodyMind** | Flask, PyWebView | Mood-based music + guitar tuner |
+| **Petrol Pump System** | ASP.NET, SQL | Inventory & billing management |
 
 ---
 
-## 📊 Tech Stack & Expertise
-
-### Programming Languages
-`Python` `C#` `JavaScript` `SQL` `R` `MATLAB`
-
-### Frontend
-`React` `TypeScript` `HTML5` `CSS3` `JavaScript`
-
-### Backend & Frameworks
-`FastAPI` `Django` `Flask` `ASP.NET` `Python` `C#`
-
-### Data & ML
-`Scikit-learn` `Pandas` `NumPy` `PyTorch` `Sentence Transformers` `UMAP` `OpenCV`
-
-### Databases & Cloud
-`PostgreSQL` `MySQL` `Supabase` `Firebase` `SQL Server`
-
-### DevOps & Tools
-`Git` `Docker` `GitHub Actions` `VS Code` `Linux`
-
----
-
-## 🎯 Skills Breakdown
+## 📊 Domain Expertise & Specialization
 
 ### Full-Stack Web Development
-**Proficiency: 85%**  
-React, ASP.NET, FastAPI, PostgreSQL, Supabase, JavaScript, TypeScript
+```
+████████░░ 85% - React | ASP.NET | FastAPI | PostgreSQL | Supabase
+```
 
 ### AI/ML Engineering
-**Proficiency: 80%**  
-Scikit-learn, NLP, Clustering, PyTorch, Pandas, NumPy, Feature Engineering
+```
+████████░░ 80% - Scikit-learn | NLP | Clustering | PyTorch | Pandas
+```
 
 ### Backend Services
-**Proficiency: 80%**  
-Python, C#, Django, Flask, SQL Server, ADO.NET, API Design
+```
+████████░░ 80% - Python | C# | Django | Flask | SQL Server | ADO.NET
+```
 
 ### Data & Analytics
-**Proficiency: 75%**  
-Pandas, NumPy, Data Pipelines, UMAP, Entity Matching, Statistical Analysis
+```
+███████░░░ 75% - Pandas | NumPy | UMAP | Data Pipelines | Feature Eng
+```
 
 ### DevOps & Tools
-**Proficiency: 60%**  
-Git, Docker, GitHub, CI/CD, Firebase, Linux
+```
+██████░░░░ 60% - Git | Docker | GitHub | CI/CD | Firebase | Linux
+```
 
 ---
 
-## 📈 By The Numbers
+## 📈 Achievements by the Numbers
 
-| Metric | Value | Details |
-|--------|-------|---------|
-| 📦 Projects Shipped | **18+** | Production applications across Web, ML, and BI |
-| 🔤 Languages | **6** | Python, C#, JavaScript, SQL, R, MATLAB |
-| 🥈 Hackathon Placement | **2nd** | VIBECODETHON (Google Gemini Certified) |
-| 📊 Data Processed | **35K+** | Product records in ML capstone |
-| 🚗 AI Simulation Scale | **20K+** | Vehicle agents in traffic simulator |
+| Metric | Count | Description |
+|:------:|:-----:|-------------|
+| 📦 | **18+** | Projects shipped across Web, ML, BI |
+| 🔤 | **6** | Programming languages mastered |
+| 🥈 | **2nd** | VIBECODETHON placement (Google certified) |
+| 📊 | **35K+** | Product records processed in ML capstone |
+| 🚗 | **20K+** | Vehicle agents in traffic AI simulator |
 
 ---
 
@@ -99,18 +86,26 @@ Git, Docker, GitHub, CI/CD, Firebase, Linux
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt="ASP.NET" title="ASP.NET"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" title="FastAPI"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikit-learn" title="scikit-learn"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" title="Supabase"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -118,25 +113,47 @@ Git, Docker, GitHub, CI/CD, Firebase, Linux
 
 ## 🧠 Current Focus
 
-| Area | Status |
-|------|:------:|
-| Full-Stack Dashboards (React / Supabase) | 🔴 Active |
-| ML Engineering & NLP | 🟡 Building |
-| Internship Hunt (Web Dev / AI-ML / BA) | 🔵 Open |
+| Focus Area | Status |
+|---|:---:|
+| Full-Stack Dashboard Engineering (React / ASP.NET) | 🔴 Active |
+| Applied ML & NLP | 🟡 Building |
+| Internship Search | 🔵 Open |
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🎯 Skills at a Glance
+
+### Languages & Runtimes
+`Python` `C#` `JavaScript` `TypeScript` `SQL` `R` `MATLAB`
+
+### Frontend Technologies
+`React` `HTML5` `CSS3` `JavaScript` `TypeScript` `Responsive Design`
+
+### Backend & Frameworks
+`FastAPI` `Django` `Flask` `ASP.NET` `ASP.NET Core` `REST APIs` `GraphQL`
+
+### Data Science & ML
+`Scikit-learn` `Pandas` `NumPy` `PyTorch` `TensorFlow` `Sentence Transformers` `UMAP` `OpenCV`
+
+### Databases & Cloud
+`PostgreSQL` `MySQL` `Supabase` `Firebase` `SQL Server` `ADO.NET`
+
+### DevOps & Tools
+`Git` `GitHub` `Docker` `GitHub Actions` `CI/CD` `Linux` `VS Code` `Jupyter`
+
+---
+
+## 🤝 Open to Collaborate
 
 I'm interested in:
-- **Full-stack web apps** using React, ASP.NET, FastAPI
-- **Applied ML projects** — classification, clustering, recommendations
-- **Hackathons** and startup ideas
-- **Internships** in Web Dev, AI/ML, or Business Analysis
+- **Full-stack web applications** (React / ASP.NET / FastAPI)
+- **Applied ML projects** — classification, clustering, recommendation systems
+- **Campus hackathons** and startup ideas
+- **Internships** in Web Dev, AI/ML Engineering, or Business Analysis
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
