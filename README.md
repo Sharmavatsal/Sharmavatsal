@@ -87,15 +87,153 @@ I'm a final-year **B.Tech Agricultural Information Technology** student who buil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
-## 📊 Interactive Expertise Dashboard
+## 📊 Domain Expertise & Specialization
 
-<div align="center">
-
-![Expertise Dashboard](./expertise-dashboard.svg)
-
-</div>
-
-The dashboard above showcases proficiency levels across key domains, real achievement milestones, and my core technical stack. All figures reflect projects shipped, competitive placements, and scale from production experience.
+<svg viewBox="0 0 1000 900" xmlns="http://www.w3.org/2000/svg" style="width:100%; max-width:900px; margin:0 auto; display:block;">
+  <defs>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0f0f0f; }
+        .card { fill: #1a1a1a; stroke: #2d2d2d; }
+        .text-title { fill: #f0f0f0; }
+        .text-secondary { fill: #a0a0a0; }
+        .text-accent { fill: #36BCF7; }
+        .bar-bg { fill: #2d2d2d; }
+        .tech-badge { fill: #2d2d2d; stroke: #3d3d3d; }
+      }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #ffffff; }
+        .card { fill: #f8f8f8; stroke: #e0e0e0; }
+        .text-title { fill: #1a1a1a; }
+        .text-secondary { fill: #666666; }
+        .text-accent { fill: #2a78d6; }
+        .bar-bg { fill: #e8e8e8; }
+        .tech-badge { fill: #f0f0f0; stroke: #d0d0d0; }
+      }
+      
+      .text-sm { font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; }
+      .text-md { font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; }
+      .text-lg { font-size: 18px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; }
+      .text-number { font-size: 28px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; }
+      
+      @keyframes slideIn {
+        from { opacity: 0; transform: translateX(-20px); }
+        to { opacity: 1; transform: translateX(0); }
+      }
+      
+      @keyframes popIn {
+        0% { opacity: 0; transform: scale(0.8); }
+        100% { opacity: 1; transform: scale(1); }
+      }
+      
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      
+      .skill-bar { animation: slideIn 1.5s ease-out forwards; }
+      .skill-bar-1 { animation-delay: 0.2s; }
+      .skill-bar-2 { animation-delay: 0.4s; }
+      .skill-bar-3 { animation-delay: 0.6s; }
+      .skill-bar-4 { animation-delay: 0.8s; }
+      .skill-bar-5 { animation-delay: 1s; }
+      
+      .achievement { animation: popIn 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) forwards; }
+      .ach-1 { animation-delay: 1.3s; }
+      .ach-2 { animation-delay: 1.5s; }
+      .ach-3 { animation-delay: 1.7s; }
+      .ach-4 { animation-delay: 1.9s; }
+      .ach-5 { animation-delay: 2.1s; }
+    </style>
+    
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#36BCF7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a78d6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1000" height="900" class="bg"/>
+  
+  <text x="500" y="40" text-anchor="middle" class="text-lg text-title">💼 Domain Expertise & Specialization</text>
+  
+  <!-- Skill 1: Full-Stack Web -->
+  <rect x="40" y="70" width="920" height="120" rx="8" class="card"/>
+  <text x="60" y="95" class="text-md text-title">Full-Stack Web</text>
+  <text x="920" y="95" text-anchor="end" class="text-md text-accent">85%</text>
+  <rect x="60" y="110" width="880" height="8" rx="4" class="bar-bg"/>
+  <rect x="60" y="110" width="748" height="8" rx="4" fill="url(#barGrad)" class="skill-bar skill-bar-1"/>
+  <rect x="60" y="135" width="75" height="22" rx="4" class="tech-badge"/><text x="97" y="150" text-anchor="middle" class="text-sm text-accent">React</text>
+  <rect x="150" y="135" width="85" height="22" rx="4" class="tech-badge"/><text x="192" y="150" text-anchor="middle" class="text-sm text-accent">ASP.NET</text>
+  <rect x="250" y="135" width="80" height="22" rx="4" class="tech-badge"/><text x="290" y="150" text-anchor="middle" class="text-sm text-accent">FastAPI</text>
+  <rect x="345" y="135" width="85" height="22" rx="4" class="tech-badge"/><text x="387" y="150" text-anchor="middle" class="text-sm text-accent">Supabase</text>
+  
+  <!-- Skill 2: AI/ML Engineering -->
+  <rect x="40" y="210" width="920" height="120" rx="8" class="card"/>
+  <text x="60" y="235" class="text-md text-title">AI/ML Engineering</text>
+  <text x="920" y="235" text-anchor="end" class="text-md text-accent">80%</text>
+  <rect x="60" y="250" width="880" height="8" rx="4" class="bar-bg"/>
+  <rect x="60" y="250" width="704" height="8" rx="4" fill="url(#barGrad)" class="skill-bar skill-bar-2"/>
+  <rect x="60" y="275" width="90" height="22" rx="4" class="tech-badge"/><text x="105" y="290" text-anchor="middle" class="text-sm text-accent">Scikit-learn</text>
+  <rect x="165" y="275" width="65" height="22" rx="4" class="tech-badge"/><text x="197" y="290" text-anchor="middle" class="text-sm text-accent">NLP</text>
+  <rect x="245" y="275" width="85" height="22" rx="4" class="tech-badge"/><text x="287" y="290" text-anchor="middle" class="text-sm text-accent">Clustering</text>
+  <rect x="345" y="275" width="75" height="22" rx="4" class="tech-badge"/><text x="382" y="290" text-anchor="middle" class="text-sm text-accent">PyTorch</text>
+  
+  <!-- Skill 3: Backend Services -->
+  <rect x="40" y="350" width="920" height="120" rx="8" class="card"/>
+  <text x="60" y="375" class="text-md text-title">Backend Services</text>
+  <text x="920" y="375" text-anchor="end" class="text-md text-accent">80%</text>
+  <rect x="60" y="390" width="880" height="8" rx="4" class="bar-bg"/>
+  <rect x="60" y="390" width="704" height="8" rx="4" fill="url(#barGrad)" class="skill-bar skill-bar-3"/>
+  <rect x="60" y="415" width="70" height="22" rx="4" class="tech-badge"/><text x="95" y="430" text-anchor="middle" class="text-sm text-accent">Python</text>
+  <rect x="145" y="415" width="45" height="22" rx="4" class="tech-badge"/><text x="167" y="430" text-anchor="middle" class="text-sm text-accent">C#</text>
+  <rect x="205" y="415" width="75" height="22" rx="4" class="tech-badge"/><text x="242" y="430" text-anchor="middle" class="text-sm text-accent">Django</text>
+  <rect x="295" y="415" width="95" height="22" rx="4" class="tech-badge"/><text x="342" y="430" text-anchor="middle" class="text-sm text-accent">SQL Server</text>
+  
+  <!-- Skill 4: Data & Analytics -->
+  <rect x="40" y="490" width="920" height="120" rx="8" class="card"/>
+  <text x="60" y="515" class="text-md text-title">Data &amp; Analytics</text>
+  <text x="920" y="515" text-anchor="end" class="text-md text-accent">75%</text>
+  <rect x="60" y="530" width="880" height="8" rx="4" class="bar-bg"/>
+  <rect x="60" y="530" width="660" height="8" rx="4" fill="url(#barGrad)" class="skill-bar skill-bar-4"/>
+  <rect x="60" y="555" width="70" height="22" rx="4" class="tech-badge"/><text x="95" y="570" text-anchor="middle" class="text-sm text-accent">Pandas</text>
+  <rect x="145" y="555" width="70" height="22" rx="4" class="tech-badge"/><text x="180" y="570" text-anchor="middle" class="text-sm text-accent">NumPy</text>
+  <rect x="230" y="555" width="65" height="22" rx="4" class="tech-badge"/><text x="262" y="570" text-anchor="middle" class="text-sm text-accent">UMAP</text>
+  <rect x="310" y="555" width="100" height="22" rx="4" class="tech-badge"/><text x="360" y="570" text-anchor="middle" class="text-sm text-accent">Data Pipelines</text>
+  
+  <!-- Skill 5: DevOps & Tools -->
+  <rect x="40" y="630" width="920" height="120" rx="8" class="card"/>
+  <text x="60" y="655" class="text-md text-title">DevOps &amp; Tools</text>
+  <text x="920" y="655" text-anchor="end" class="text-md text-accent">60%</text>
+  <rect x="60" y="670" width="880" height="8" rx="4" class="bar-bg"/>
+  <rect x="60" y="670" width="528" height="8" rx="4" fill="url(#barGrad)" class="skill-bar skill-bar-5"/>
+  <rect x="60" y="695" width="55" height="22" rx="4" class="tech-badge"/><text x="87" y="710" text-anchor="middle" class="text-sm text-accent">Git</text>
+  <rect x="130" y="695" width="75" height="22" rx="4" class="tech-badge"/><text x="167" y="710" text-anchor="middle" class="text-sm text-accent">Docker</text>
+  <rect x="220" y="695" width="65" height="22" rx="4" class="tech-badge"/><text x="252" y="710" text-anchor="middle" class="text-sm text-accent">CI/CD</text>
+  <rect x="300" y="695" width="80" height="22" rx="4" class="tech-badge"/><text x="340" y="710" text-anchor="middle" class="text-sm text-accent">Firebase</text>
+  
+  <!-- Achievements -->
+  <text x="500" y="800" text-anchor="middle" class="text-lg text-title">🎯 Achievements by the Numbers</text>
+  
+  <rect x="40" y="820" width="160" height="70" rx="8" class="card achievement ach-1"/>
+  <text x="120" y="850" text-anchor="middle" class="text-number text-accent">18<tspan font-size="20">+</tspan></text>
+  <text x="120" y="875" text-anchor="middle" class="text-sm text-secondary">Projects shipped</text>
+  
+  <rect x="220" y="820" width="160" height="70" rx="8" class="card achievement ach-2"/>
+  <text x="300" y="850" text-anchor="middle" class="text-number text-accent">6</text>
+  <text x="300" y="875" text-anchor="middle" class="text-sm text-secondary">Languages</text>
+  
+  <rect x="400" y="820" width="160" height="70" rx="8" class="card achievement ach-3"/>
+  <text x="480" y="850" text-anchor="middle" class="text-number text-accent">2<tspan font-size="18" dy="-8">nd</tspan></text>
+  <text x="480" y="875" text-anchor="middle" class="text-sm text-secondary">VIBECODETHON</text>
+  
+  <rect x="580" y="820" width="160" height="70" rx="8" class="card achievement ach-4"/>
+  <text x="660" y="850" text-anchor="middle" class="text-number text-accent">35K<tspan font-size="20">+</tspan></text>
+  <text x="660" y="875" text-anchor="middle" class="text-sm text-secondary">Product records</text>
+  
+  <rect x="760" y="820" width="160" height="70" rx="8" class="card achievement ach-5"/>
+  <text x="840" y="850" text-anchor="middle" class="text-number text-accent">20K<tspan font-size="20">+</tspan></text>
+  <text x="840" y="875" text-anchor="middle" class="text-sm text-secondary">Vehicles AI</text>
+</svg>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
