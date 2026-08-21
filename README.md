@@ -6,169 +6,154 @@
 <a href="mailto:sharmavatsal144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Sharmavatsal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Final-Year+B.Tech+%7C+Agricultural+Information+Technology;Full-Stack+Developer+%7C+React+%2B+ASP.NET+%2B+FastAPI;AI%2FML+Engineer+%7C+Scikit-learn+%2B+NLP+%2B+Clustering;Open+to+Full-Stack%2C+AI%2FML+Roles)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
 ## 🚀 About Me
 
-Final-year **B.Tech in Agricultural Information Technology** student building end-to-end products — full-stack dashboards, ML pipelines, and enterprise systems. Passionate about **Full-Stack Development**, **AI/ML Engineering**, and **Business Analysis**.
+I'm a final-year **B.Tech Agricultural Information Technology** student who builds end-to-end products — full-stack dashboards, applied ML pipelines, and enterprise-style management systems — often using AI-assisted development workflows to move fast from idea to working software. Currently exploring roles as a **Business Analyst**, **Web Developer**, and **AI/ML Engineer**.
 
----
+<div align="center">
 
-## 🏆 Key Achievements
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:203a43,100:2c5364&height=55&section=header&text=Building%20%2B%20Learning%20%2B%20Shipping&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="60%"/>
 
-- 🥈 **2nd Place** - VIBECODETHON (Google Gemini Certified)
-- 📚 Completed **LaunchEd Global Data Science** capstone
-- 🚀 **18+ projects** shipped in production
-- 💼 Open to internships in **Web Dev**, **AI/ML**, **Business Analysis**
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
+
+## 🏆 Leadership & Achievements
+
+- 🥈 **Team Lead — VIBECODETHON Hackathon** (certified by Google Gemini) — led the team to **2nd place**
+- 📚 Completed the **LaunchEd Global Data Science course**, delivering a full ML capstone project
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 💼 Featured Projects
 
-| Project | Stack | Highlights |
-|---------|-------|-----------|
-| **Integrated Business Ops Dashboard** | React, Python, Supabase | Multi-vertical with role-based access |
-| **Product Intelligence Dashboard** | FastAPI, Scikit-learn, UMAP | ML pipeline: 35K+ product records |
-| **AI Study Assistant** | ASP.NET, C#, SQL Server | PDF summary, MCQ gen, voice assistant |
-| **MelodyMind** | Flask, PyWebView | Mood-based music + guitar tuner |
-| **Petrol Pump System** | ASP.NET, SQL | Inventory & billing management |
+| Project | Description | Stack |
+|---|---|---|
+| **Integrated Business Operations Dashboard** | Multi-vertical ops platform (Equipment Rental, Piling, O&M) with role-based access and Supabase Row Level Security | `React` `Python` `PostgreSQL/Supabase` |
+| **Product Intelligence Dashboard** | ML dashboard for classification, clustering & entity matching across 35,000+ product listings | `Python` `FastAPI` `Scikit-learn` `Sentence Transformers` `UMAP` |
+| **AI-Powered Smart Study Assistant** | Student productivity platform — assignments, study streaks, AI PDF summarization, MCQ generation, voice assistant | `ASP.NET` `C#` `ADO.NET` `SQL Server` `Python` |
+| **Petrol Pump Management System** | Role-based fuel station system covering inventory, billing, purchases, expenses, and cash reconciliation | `ASP.NET` `SQL` |
+| **MelodyMind** | Mood-based music recommender + real-time guitar tuner with a LAN-synced Jam Session feature | `Python` `Flask` `PyWebView/PyInstaller` |
 
----
-
-## 📊 Domain Expertise & Specialization
-
-### Full-Stack Web Development
-```
-████████░░ 85% - React | ASP.NET | FastAPI | PostgreSQL | Supabase
-```
-
-### AI/ML Engineering
-```
-████████░░ 80% - Scikit-learn | NLP | Clustering | PyTorch | Pandas
-```
-
-### Backend Services
-```
-████████░░ 80% - Python | C# | Django | Flask | SQL Server | ADO.NET
-```
-
-### Data & Analytics
-```
-███████░░░ 75% - Pandas | NumPy | UMAP | Data Pipelines | Feature Eng
-```
-
-### DevOps & Tools
-```
-██████░░░░ 60% - Git | Docker | GitHub | CI/CD | Firebase | Linux
-```
-
----
-
-## 📈 Achievements by the Numbers
-
-| Metric | Count | Description |
-|:------:|:-----:|-------------|
-| 📦 | **18+** | Projects shipped across Web, ML, BI |
-| 🔤 | **6** | Programming languages mastered |
-| 🥈 | **2nd** | VIBECODETHON placement (Google certified) |
-| 📊 | **35K+** | Product records processed in ML capstone |
-| 🚗 | **20K+** | Vehicle agents in traffic AI simulator |
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🧰 Technical Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt="ASP.NET" title="ASP.NET"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" title="Flask"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django" title="Django"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" title="FastAPI"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikit-learn" title="scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" title="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" title="OpenCV"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB" title="MATLAB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" title="Supabase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" title="Firebase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🧠 Current Focus
 
 | Focus Area | Status |
-|---|:---:|
-| Full-Stack Dashboard Engineering (React / ASP.NET) | 🔴 Active |
-| Applied ML & NLP | 🟡 Building |
-| Internship Search | 🔵 Open |
+|---|---|
+| Full-Stack Dashboard Engineering (React / ASP.NET / Supabase) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
+| Applied Machine Learning (Classification, Clustering, NLP) | ![Building](https://img.shields.io/badge/Status-Building-yellow?style=flat-square) |
+| Internship Search — Business Analyst / Web Dev / AI-ML | ![Open](https://img.shields.io/badge/Status-Open-blue?style=flat-square) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
-## 🎯 Skills at a Glance
+## 📊 Domain Expertise & Specialization
 
-### Languages & Runtimes
-`Python` `C#` `JavaScript` `TypeScript` `SQL` `R` `MATLAB`
+<br>
 
-### Frontend Technologies
-`React` `HTML5` `CSS3` `JavaScript` `TypeScript` `Responsive Design`
+## 🎯 Achievements by the Numbers
 
-### Backend & Frameworks
-`FastAPI` `Django` `Flask` `ASP.NET` `ASP.NET Core` `REST APIs` `GraphQL`
+| Metric | Count |
+|--------|:-----:|
+| 📦 Projects Shipped | **18+** |
+| 🔤 Languages | **6** |
+| 🥈 VIBECODETHON | **2nd** |
+| 📊 Product Records | **35K+** |
+| 🚗 Vehicles Simulated | **20K+** |
 
-### Data Science & ML
-`Scikit-learn` `Pandas` `NumPy` `PyTorch` `TensorFlow` `Sentence Transformers` `UMAP` `OpenCV`
+<br>
 
-### Databases & Cloud
-`PostgreSQL` `MySQL` `Supabase` `Firebase` `SQL Server` `ADO.NET`
+## ⚡ Core Tech Stack
 
-### DevOps & Tools
-`Git` `GitHub` `Docker` `GitHub Actions` `CI/CD` `Linux` `VS Code` `Jupyter`
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sharmavatsal/Sharmavatsal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 🤝 Open to Collaborate
 
-I'm interested in:
-- **Full-stack web applications** (React / ASP.NET / FastAPI)
-- **Applied ML projects** — classification, clustering, recommendation systems
-- **Campus hackathons** and startup ideas
-- **Internships** in Web Dev, AI/ML Engineering, or Business Analysis
+I'm open to working on:
 
----
+- Full-stack web applications (React / ASP.NET / FastAPI)
+- Applied ML projects — classification, clustering, recommendation systems
+- Campus hackathons and build-in-public projects
+- Internship / fresher opportunities in Full-Stack, AI/ML, or Business Analysis
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-sharma-166267297/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmavatsal144@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharmavatsal)
+<a href="https://www.linkedin.com/in/vatsal-sharma-166267297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sharmavatsal144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=4&section=header&animation=twinkling" width="100%"/>
 
 <div align="center">
 
 *"The best way to predict the future is to build it."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
